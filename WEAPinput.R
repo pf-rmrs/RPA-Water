@@ -2,7 +2,7 @@ rm(list = ls())
 
 # set working directory to file location
 # for Travis:
-setwd("~/5_RPA/2020 Assessment/Demand model/WEAP Input Creation")
+setwd("D:/GitHub/RPA-Water")
 
 library(tidyr)
 library(ggplot2)
